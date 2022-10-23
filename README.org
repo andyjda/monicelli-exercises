@@ -1,4 +1,4 @@
-#+TITLE: All Tasks
+#+TITLE: README
 * [[https://github.com/esseks/monicelli][Monicelli]]
 is an esoteric programming language inspired by the legendary Italian comedy movie [[https://www.youtube.com/watch?v=IoEK2Z3-JH8][Amici Miei]]
 
