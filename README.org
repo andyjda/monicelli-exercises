@@ -1,4 +1,6 @@
 #+TITLE: README
-* [[https://github.com/esseks/monicelli][Monicelli]]
-is an esoteric programming language inspired by the legendary Italian comedy movie [[https://www.youtube.com/watch?v=IoEK2Z3-JH8][Amici Miei]]
+* Code
+Monicelli is an [[https://github.com/esseks/monicelli][esoteric programming language]] inspired by the legendary Italian comedy movie [[https://www.youtube.com/watch?v=IoEK2Z3-JH8][Amici Miei]]
+* Compile and Run
+Follow the instructions at the Monicelli README to build a compiler, then simply run "mcc mcc gcd.mc -o gcd" to compile, and "./gcd" to run. The program expects two integers from stdin, and will compute the greatest common divisor, using Euclid's algorithm.
 
